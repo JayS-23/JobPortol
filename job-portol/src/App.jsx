@@ -1,4 +1,4 @@
-// import './css/App.css';
+import './css/index.css';
 import { MantineProvider } from '@mantine/core';
 import '@mantine/core/styles.css';
 import { Chip } from '@mantine/core';
